@@ -8,3 +8,5 @@ Quantum computing will enable an exponential acceleration in the performance of 
 ![Example of Quantum Test Circuit](qtcc_adder.png)
 
 **Figure2:** Example of Quantum Test Circuit
+
+The code for the Quantum Test Case Circuit, can be found at [https://github.com/GrupoAlarcos/QTCC/blob/main/Automatic_generation_of_QTCC.ipynb](https://github.com/GrupoAlarcos/QTCC/blob/main/Automatic_generation_of_QTCC.ipynb)
